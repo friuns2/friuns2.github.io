@@ -3,3 +3,5 @@
 # [Resume](https://friuns2.github.io/first%20resume.pdf)
 
 # [Linked In](https://www.linkedin.com/in/igor-levochkin-a8733a14/)
+
+Favorite influencers: Palmer Luckey, Elon Musk, [George Hotz](https://en.wikipedia.org/wiki/George_Hotz)
