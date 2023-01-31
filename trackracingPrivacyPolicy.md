@@ -1,6 +1,6 @@
 Privacy Policy for TrackRacing Online Game
 
-This privacy policy explains how TrackRacing Online Game (“Game”) collects, uses, and shares personal information from users of the Game.
+This privacy policy explains how TrackRacing Online Game collects, uses, and shares personal information from users of the Game.
 
 Collection of Information
 
