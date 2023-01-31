@@ -29,5 +29,5 @@ Changes to Privacy Policy
 The Game may update this privacy policy from time to time. Any changes will be reflected on this page, and the Game will notify users of any material changes.  
 Contact Us
 
-If you have any questions or concerns about this privacy policy, please contact us at support@brutalstrike.net.  
+If you have any questions or concerns about this privacy policy, please contact us at support at brutalstrike.net.  
 Effective Date: January 31, 2023.
