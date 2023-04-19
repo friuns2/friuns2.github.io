@@ -1,0 +1,28 @@
+{
+  "background_color": "#ffffff",
+  "description": "Meme AI generator that works directly from your web browser or on your mobile device. Thanks to GPT-4 OpenAI ChatGPT, you can now create hilarious memes in a snap. No need to be a tech whiz or a photoshop pro, just point your camera or upload a photo and let the AI do the rest. Get ready for endless laughter and meme-making fun!",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "AI Meme Camera",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "AI Meme Cam",
+  "start_url": "/mobile2.html",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "display_override": [
+    "fullscreen"
+  ]
+}
