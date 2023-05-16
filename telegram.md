@@ -20,9 +20,6 @@ ChatGPT for Telegram is not intended for use by individuals under the age of 13.
 ## 6. Changes to the Privacy Policy
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. Any modifications will be effective immediately upon posting the updated Privacy Policy within the app.
 
-## 7. Contact Us
-If you have any questions or concerns regarding this Privacy Policy or our privacy practices, please contact us at [insert contact information].
-
 Please note that this Privacy Policy only applies to ChatGPT for Telegram and does not cover any third-party services or applications that you may access through external links or within the Telegram platform.
 
 By using ChatGPT for Telegram, you acknowledge and agree to the practices described in this Privacy Policy.
